@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Franky"]
   spec.email         = ["zhanglinjie412@gmail.com"]
   spec.description   = %q{A gem make a model attribute acts as a type}
-  spec.summary       = %q{}
-  spec.homepage      = ""
+  spec.summary       = %q{A gem make a model attribute acts as a type}
+  spec.homepage      = "https://github.com/zhanglinjie/acts_as_type"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files`.split($/)
